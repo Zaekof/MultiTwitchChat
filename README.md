@@ -19,5 +19,8 @@
 OR
 ## npm start
 
+# Use
+### !shorturl username1 username2 username3
+
 
 Make with firebase and tmi.js.
