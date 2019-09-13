@@ -1,0 +1,30 @@
+{
+  "name": "multitwitchchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaekof/MultiTwitchChat.git"
+  },
+  "author": "zaekof",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaekof/MultiTwitchChat/issues"
+  },
+  "homepage": "https://github.com/Zaekof/MultiTwitchChat#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "firebase": "^6.6.1",
+    "moment": "^2.24.0",
+    "tmi.js": "^1.5.0",
+    "uid-generator": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
